@@ -2,6 +2,8 @@
 
 This repository contains a demo application designed to parse and extract information from handwritten medical prescriptions. The application leverages the GPT-4o model from OpenAI to accurately transcribe prescription details into structured data.
 
+**Dataset**: [Kaggle Dataset](https://www.kaggle.com/datasets/mehaksingal/illegible-medical-prescription-images-dataset)
+ 
 ## Table of Contents
 
 1. [Introduction](#introduction)
