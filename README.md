@@ -57,7 +57,7 @@ Follow these steps to set up the development environment and run the application
     ```
 
 4. **Set Up Environment Variables**:
-    Create a `.env` file in the root directory and add your OpenAI API key:
+    Create a `keys.py` file in the root directory and add your OpenAI API key:
     ```env
     OPENAI_API_KEY=your_openai_api_key
     ```
